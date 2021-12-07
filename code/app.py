@@ -2,9 +2,9 @@ from flask import Flask
 from flask_restful import Api
 from flask_jwt import JWT
 
-from item import Item, ItemList
+from code.resources import Item, ItemList
 from security import authenticate, identity
-from user import UserRegister
+from code.resources import UserRegister
 
 # Crear el objeto de la interfaz web
 app = Flask(__name__)

@@ -1,0 +1,7 @@
+Las diferencias entre un directorio y un paquete:
+1. El paquete tiene dentro un archivo __init__.py: asi el programa mira aqui si hay archivos python
+
+Diferencias entre models y resources:
+1. Un resource es un trozo de código que interacciona con las APIs (external representation)
+2. Un model es un trozo de código que ayuda al funcionamiento de las APIs. Es una representación de una entidad
+(internal representation)
