@@ -1,4 +1,4 @@
-from code.models import UserModel
+from models.user import UserModel
 
 
 def authenticate(username, password):
