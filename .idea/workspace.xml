@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ed869d5-0ad2-425b-baca-3965c501c179" name="Changes" comment="" />
+    <list default="true" id="1ed869d5-0ad2-425b-baca-3965c501c179" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/uwsgi.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +91,7 @@
       <workItem from="1640346222375" duration="1959000" />
       <workItem from="1640605834453" duration="9266000" />
       <workItem from="1641200838703" duration="605000" />
-      <workItem from="1641573350159" duration="367000" />
+      <workItem from="1641573350159" duration="1627000" />
     </task>
     <servers />
   </component>
